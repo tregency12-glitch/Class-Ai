@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Thinking Skills for Lifelong Learning",
+        "day": "พฤหัสบดี",
+        "start_time": "08:40",
+        "end_time": "11:00",
+        "room": "A4-403"
+    },
+    {
+        "subject": "Thinking Skills for Lifelong Learning",
+        "day": "พฤหัสบดี",
+        "start_time": "12:00",
+        "end_time": "14:20",
+        "room": "A4-403"
+    },
+    {
+        "subject": "CS100 / 127B Introduction to Computational Thinking (LAB)",
+        "day": "จันทร์",
+        "start_time": "08:40",
+        "end_time": "11:00",
+        "room": "A4-204"
+    },
+    {
+        "subject": "CS100 / 127B Introduction to Computational Thinking (LAB)",
+        "day": "จันทร์",
+        "start_time": "14:30",
+        "end_time": "16:50",
+        "room": "A4-204"
+    }
+]
